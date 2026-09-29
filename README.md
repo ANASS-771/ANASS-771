@@ -4,7 +4,7 @@
 
 ### Computer Science Engineering Student · Data & Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analysis+%7C+Web+Development+%7C+Game+Dev;Building+things+to+understand+how+they+work;ENSA+K%C3%A9nitra+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analysis+%7C+Web+Development;Building+systems+to+understand+how+they+work;ENSA+K%C3%A9nitra+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/anass-el-aloussi-b541b235a">
@@ -24,13 +24,12 @@
 
 I'm a **Computer Science Engineering student at ENSA Kénitra** with a strong interest in building systems from the ground up — not just using them.
 
-My work revolves around three areas:
+My work revolves around two areas:
 
 - 📊 **Data Analysis & BI** — turning raw data into clear, actionable dashboards
 - 🌐 **Web Development** — designing and building full-stack applications
-- 🎮 **Game Development** — exploring interactive systems for fun and learning
 
-I recently completed an internship on a **B2B logistics platform (ONCF Portail)** and trained in **Power BI** and **Game Development**.
+I recently completed an internship on a **B2B logistics platform (ONCF Portail)** and trained in **Power BI**.
 
 I enjoy diving into the *why* behind the *how* — databases, APIs, architectures, and everything in between.
 
@@ -87,7 +86,7 @@ I enjoy diving into the *why* behind the *how* — databases, APIs, architecture
 
 <div align="center">
 
-I'm always open to collaborating on **data projects**, **web applications**, or **game dev experiments**.
+I'm always open to collaborating on **data projects** and **web applications**.
 
 <a href="https://www.linkedin.com/in/anass-el-aloussi-b541b235a">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
