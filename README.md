@@ -13,7 +13,6 @@
   <a href="mailto:anass2005aloussi@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=anasselaloussi&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" />
 </p>
 
 </div>
